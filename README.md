@@ -9,7 +9,3 @@ This is my personal neovim configuration using "LazyVim"
 ```bash
 git clone https://github.com/iiharsha/lazynvim.git ~/.config/nvim
 ```
-
-```bash
-
-```
